@@ -1,4 +1,3 @@
-const clicTitle = document.querySelector('h1');
 const eleSquares = document.querySelector('.squares');
 
 for (let i = 1; i <= 100; i++) {
